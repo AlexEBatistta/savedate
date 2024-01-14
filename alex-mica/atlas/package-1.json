@@ -1,0 +1,519 @@
+{
+  "frames": {
+    "package-1/dressCode3.png": {
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 505,
+        "h": 981
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 505,
+        "h": 981
+      },
+      "sourceSize": {
+        "w": 505,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode4.png": {
+      "frame": {
+        "x": 2,
+        "y": 987,
+        "w": 505,
+        "h": 981
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 505,
+        "h": 981
+      },
+      "sourceSize": {
+        "w": 505,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/heart.png": {
+      "frame": {
+        "x": 2,
+        "y": 1972,
+        "w": 82,
+        "h": 72
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 82,
+        "h": 72
+      },
+      "sourceSize": {
+        "w": 82,
+        "h": 72
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/saveIcon.png": {
+      "frame": {
+        "x": 88,
+        "y": 1972,
+        "w": 71,
+        "h": 71
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 71,
+        "h": 71
+      },
+      "sourceSize": {
+        "w": 71,
+        "h": 71
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/frame.png": {
+      "frame": {
+        "x": 163,
+        "y": 1972,
+        "w": 51,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 51,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 51,
+        "h": 51
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/copy.png": {
+      "frame": {
+        "x": 218,
+        "y": 1972,
+        "w": 41,
+        "h": 50
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 41,
+        "h": 50
+      },
+      "sourceSize": {
+        "w": 41,
+        "h": 50
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/btnClose.png": {
+      "frame": {
+        "x": 263,
+        "y": 1972,
+        "w": 52,
+        "h": 48
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 13,
+        "y": 14,
+        "w": 52,
+        "h": 48
+      },
+      "sourceSize": {
+        "w": 78,
+        "h": 78
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/arrow.png": {
+      "frame": {
+        "x": 319,
+        "y": 1972,
+        "w": 44,
+        "h": 26
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 44,
+        "h": 26
+      },
+      "sourceSize": {
+        "w": 44,
+        "h": 26
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode5.png": {
+      "frame": {
+        "x": 511,
+        "y": 2,
+        "w": 506,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 506,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 506,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode2.png": {
+      "frame": {
+        "x": 511,
+        "y": 986,
+        "w": 504,
+        "h": 981
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 504,
+        "h": 981
+      },
+      "sourceSize": {
+        "w": 504,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode1.png": {
+      "frame": {
+        "x": 1019,
+        "y": 986,
+        "w": 505,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 505,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 505,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode6.png": {
+      "frame": {
+        "x": 1021,
+        "y": 2,
+        "w": 505,
+        "h": 980
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 1,
+        "w": 505,
+        "h": 980
+      },
+      "sourceSize": {
+        "w": 505,
+        "h": 981
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/dressCode.png": {
+      "frame": {
+        "x": 1530,
+        "y": 2,
+        "w": 486,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 486,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 486,
+        "h": 288
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/location.png": {
+      "frame": {
+        "x": 1530,
+        "y": 294,
+        "w": 418,
+        "h": 626
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 121,
+        "y": 52,
+        "w": 418,
+        "h": 626
+      },
+      "sourceSize": {
+        "w": 661,
+        "h": 730
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/soundOff.png": {
+      "frame": {
+        "x": 1952,
+        "y": 294,
+        "w": 59,
+        "h": 92
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 7,
+        "w": 59,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 117,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/alliances.png": {
+      "frame": {
+        "x": 1530,
+        "y": 924,
+        "w": 372,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 372,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 372,
+        "h": 288
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/soundOn.png": {
+      "frame": {
+        "x": 1906,
+        "y": 924,
+        "w": 118,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 118,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 118,
+        "h": 105
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/checkbox_check.png": {
+      "frame": {
+        "x": 1906,
+        "y": 1033,
+        "w": 116,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 47,
+        "y": 48,
+        "w": 116,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 209
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/foodCover.png": {
+      "frame": {
+        "x": 1528,
+        "y": 1216,
+        "w": 318,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 318,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 318,
+        "h": 286
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/checkbox_background.png": {
+      "frame": {
+        "x": 1528,
+        "y": 1506,
+        "w": 210,
+        "h": 210
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 210,
+        "h": 210
+      },
+      "sourceSize": {
+        "w": 210,
+        "h": 210
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "package-1/miniLogo.png": {
+      "frame": {
+        "x": 1742,
+        "y": 1506,
+        "w": 202,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 202,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 202,
+        "h": 151
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.4.0",
+    "image": "package-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
